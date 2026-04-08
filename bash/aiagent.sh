@@ -174,7 +174,6 @@ cmd_help() {
   echo -e "  ${BOLD}# Run Gemini CLI instead of Claude:${NC}"
   echo -e "  ${CYAN}./aiagent.sh run --cmd gemini${NC}"
   echo -e ""
-  echo -e ""
   echo -e "  ${BOLD}# Run Gemini CLI on a specific project:${NC}"
   echo -e "  ${CYAN}./aiagent.sh run --cmd gemini --project ~/projects/my-app${NC}"
   echo -e ""
