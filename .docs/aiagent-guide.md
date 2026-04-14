@@ -33,7 +33,7 @@
 
 ## 1. Why an Isolated User?
 
-When you run an AI agent like Claude Code directly in your terminal, it runs
+By default, when you run an AI agent like Claude Code directly in your terminal, it runs
 as **you** — with full access to everything your account can read, write, and
 execute. This includes:
 
